@@ -1,0 +1,6 @@
+framework module Pods_FontAwesome {
+  umbrella header "Pods-FontAwesome-umbrella.h"
+
+  export *
+  module * { export * }
+}
